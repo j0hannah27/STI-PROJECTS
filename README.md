@@ -1,2 +1,2 @@
 # STI-PROJECTS
-What I finished doing in STI
+What projects I finished doing in STI
